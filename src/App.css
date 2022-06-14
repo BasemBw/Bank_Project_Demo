@@ -1,0 +1,12 @@
+.navbar{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.balance{
+    color: aliceblue;
+}
+.contanier{
+   display: flex;
+   justify-content: center;
+}

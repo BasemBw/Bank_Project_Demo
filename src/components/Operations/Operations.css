@@ -1,0 +1,23 @@
+.input {
+    display: block;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.buttonsDiv {
+    margin: 20px;
+    display: grid;
+    grid-template-areas:
+        'header header';
+    gap: 20px;
+}
+.Deposit{
+    border-radius: 5px;
+}
+
+.Withdraw{
+    border-radius: 5px;
+}
+.AddTranscations{
+    margin-top: 40px;
+}

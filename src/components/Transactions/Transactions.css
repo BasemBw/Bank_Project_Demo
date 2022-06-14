@@ -1,0 +1,9 @@
+:root {
+    --widthArea: 600px;
+}
+
+.AppTransactions {
+    margin-top: 30px;
+    text-align: center;
+    width: var(--widthArea);
+}
